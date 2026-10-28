@@ -1,4 +1,9 @@
 <Solution>
+  <Folder Name="/Task1/">
+    <Project Path="Tyuiu.KidanovaMA.Sprint3.Task1.V26.Lib/Tyuiu.KidanovaMA.Sprint3.Task1.V26.Lib.csproj" />
+    <Project Path="Tyuiu.KidanovaMA.Sprint3.Task1.V26.Test/Tyuiu.KidanovaMA.Sprint3.Task1.V26.Test.csproj" />
+    <Project Path="Tyuiu.KidanovaMA.Sprint3.Task1.V26/Tyuiu.KidanovaMA.Sprint3.Task1.V26.csproj" />
+  </Folder>
   <Project Path="Tyuiu.KidanovaMA.Sprint3.Task0.V20.Lib/Tyuiu.KidanovaMA.Sprint3.Task0.V20.Lib.csproj" />
   <Project Path="Tyuiu.KidanovaMA.Sprint3.Task0.V20.Test/Tyuiu.KidanovaMA.Sprint3.Task0.V20.Test.csproj" />
   <Project Path="Tyuiu.KidanovaMA.Sprint3.Task0.V20/Tyuiu.KidanovaMA.Sprint3.Task0.V20.csproj" />
