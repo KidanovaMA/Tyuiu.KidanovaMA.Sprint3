@@ -14,7 +14,7 @@ namespace Tyuiu.KidanovaMA.Sprint3.Task1.V26
         {
             DataService ds = new DataService();
             Console.WriteLine("***************************************************************************");
-            Console.WriteLine("* Спринт #2                                                               *");
+            Console.WriteLine("* Спринт #3                                                               *");
             Console.WriteLine("* Тема: Оператор цикла for                                                *");
             Console.WriteLine("* Задание #1                                                              *");
             Console.WriteLine("* Вариант #26                                                             *");
