@@ -15,7 +15,7 @@ namespace Tyuiu.KidanovaMA.Sprint3.Task3.V7
             DataService ds = new DataService();
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* Спринт #3                                                               *");
-            Console.WriteLine("* Тема: Оператор цикла do-while                                           *");
+            Console.WriteLine("* Тема: Оператор цикла foreach                                            *");
             Console.WriteLine("* Задание #3                                                              *");
             Console.WriteLine("* Вариант #7                                                              *");
             Console.WriteLine("* Выполнила: Киданова Мария Александровна | АСОиУБ 26-1                   *");
