@@ -24,6 +24,11 @@
     <Project Path="Tyuiu.KidanovaMA.Sprint3.Task5.V24.Test/Tyuiu.KidanovaMA.Sprint3.Task5.V24.Test.csproj" Id="a45fb6e1-a0d1-4a75-93ab-9cd2e0985d69" />
     <Project Path="Tyuiu.KidanovaMA.Sprint3.Task5.V24/Tyuiu.KidanovaMA.Sprint3.Task5.V24.csproj" Id="0a694a52-7a58-4bbe-ab14-cb373c8a365b" />
   </Folder>
+  <Folder Name="/Task6/">
+    <Project Path="Tyuiu.KidanovaMA.Sprint3.Task6.V30.Lib/Tyuiu.KidanovaMA.Sprint3.Task6.V30.Lib.csproj" Id="37606bf6-1db8-4835-bc71-a29fbcb8b723" />
+    <Project Path="Tyuiu.KidanovaMA.Sprint3.Task6.V30.Test/Tyuiu.KidanovaMA.Sprint3.Task6.V30.Test.csproj" Id="5bfa3652-8ccb-4f65-8bea-58a651d8e058" />
+    <Project Path="Tyuiu.KidanovaMA.Sprint3.Task6.V30/Tyuiu.KidanovaMA.Sprint3.Task6.V30.csproj" Id="fd85093f-103e-4f60-b411-576f75013819" />
+  </Folder>
   <Project Path="Tyuiu.KidanovaMA.Sprint3.Task0.V20.Lib/Tyuiu.KidanovaMA.Sprint3.Task0.V20.Lib.csproj" />
   <Project Path="Tyuiu.KidanovaMA.Sprint3.Task0.V20.Test/Tyuiu.KidanovaMA.Sprint3.Task0.V20.Test.csproj" />
   <Project Path="Tyuiu.KidanovaMA.Sprint3.Task0.V20/Tyuiu.KidanovaMA.Sprint3.Task0.V20.csproj" />
