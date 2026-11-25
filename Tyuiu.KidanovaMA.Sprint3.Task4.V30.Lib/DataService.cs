@@ -16,7 +16,7 @@ namespace Tyuiu.KidanovaMA.Sprint3.Task4.V30.Lib
                 }
                 sum += Math.Sin(x) / x;
             }
-            return sum;
+            return Math.Round(sum, 3);
         }
     }
 }
